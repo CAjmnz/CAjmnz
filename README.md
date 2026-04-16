@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Engr%20Christian%20Augustus%20Jimenez&fontSize=85&animation=fadeIn&fontAlignY=38&desc=System%20Programmer%20%7C%20Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
-</div>
+
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
