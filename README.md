@@ -1,34 +1,20 @@
-
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Full%20Stack%20Developer%20%F0%9F%9A%80;System%20Design%20Architect%20%F0%9F%94%A7;AI%20%26%20Machine%20Learning%20Explorer%20%F0%9F%A4%96;DevOps%20Enthusiast%20☁️" alt="Typing SVG" />
+
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,23,2,5,30&height=400&section=header&text=%20C%20A%20JIMENEZ&fontSize=85&animation=fadeIn&fontAlignY=38&desc=System%20Programmer%20%C&descAlignY=51&descAlign=50"/>
+ 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-  <b style="font-size: 18px;">Building scalable systems and elegant solutions through code</b>
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-</div>
+
 
 <br/>
 
-<div align="center">
-  <a href="mailto:jimenezchristianaugustus@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Email" />
-  </a>
-  <a href="https://github.com/CAjmnz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=CAjmnz&style=for-the-badge&color=96CEB4&labelColor=1a1a1a&label=Profile+Views" alt="Profile views" />
-</div>
 
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 
 ```yaml
 name: Engr Christian Augustus Jimenez (CPE)
@@ -187,10 +173,6 @@ hobbies: [Open Source, Problem Solving, DevOps, Database Architecture]
   </a>
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
-</div>
 
 <div align="center">
   <br>
@@ -209,11 +191,7 @@ hobbies: [Open Source, Problem Solving, DevOps, Database Architecture]
   </a>
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,25,2,5,30&height=120&section=footer"/>
 </div>
