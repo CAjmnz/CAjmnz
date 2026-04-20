@@ -148,7 +148,7 @@ hobbies: [Open Source, Problem Solving, DevOps, Database Architecture]
     </td>
   </tr>
 </table>
-###  3D MODELING
+### 📐 3D MODELING
 <table>
   <tr>
     <td align="center" width="100">
