@@ -138,12 +138,10 @@ hobbies: [Open Source, Problem Solving, DevOps, Database Architecture]
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
       <br><strong>GitHub</strong>
     </td>
-
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
       <br><strong>Docker</strong>
     </td>
-
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
       <br><strong>Git</strong>
@@ -160,7 +158,6 @@ hobbies: [Open Source, Problem Solving, DevOps, Database Architecture]
       <img src="https://skillicons.dev/icons?i=sketchup" width="50" height="50" alt="SketchUp" />
       <br><strong>SketchUp</strong>
     </td>
-
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=blender" width="50" height="50" alt="Blender" />
       <br><strong>Blender</strong>
