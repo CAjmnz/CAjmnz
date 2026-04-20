@@ -152,12 +152,13 @@ hobbies: [Open Source, Problem Solving, DevOps, Database Architecture]
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=sketchup" width="50" height="50" alt="Sketchup />
-      <br><strong>Docker</strong>
+      <img src="https://skillicons.dev/icons?i=sketchup" width="50" height="50" alt="SketchUp" />
+      <br><strong>SketchUp</strong>
     </td>
+
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=blender" width="50" height="50" alt="Blender" />
-      <br><strong>Docker</strong>
+      <br><strong>Blender</strong>
     </td>
   </tr>
 </table>
