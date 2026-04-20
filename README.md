@@ -148,20 +148,16 @@ hobbies: [Open Source, Problem Solving, DevOps, Database Architecture]
     </td>
   </tr>
 </table>
-### 3D MODELING
+###  3D MODELING
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+      <img src="https://skillicons.dev/icons?i=sketchup alt="Sketchup" width="50" height="50" />
       <br><strong>GitHub</strong>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=blender" width="50" height="50" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=blender" width="50" height="50" alt="Blender" />
       <br><strong>Docker</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
-      <br><strong>Git</strong>
     </td>
   </tr>
 </table>
