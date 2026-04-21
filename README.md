@@ -22,7 +22,7 @@ location: Totolan, Dauis, Bohol
 status: System Programmer I - Available for opportunities
 focus: Full Stack Development & System Architecture
 learning: [Laravel, React, AI/ML, System Design]
-hobbies: [Open Source, Problem Solving, DevOps, Database Architecture]
+hobbies: [Open Source, Problem Solving, DevOps, Database Architecture, 3d modeling]
 ```
 
 **🎯 Current Focus:**
