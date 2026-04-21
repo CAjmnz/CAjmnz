@@ -40,6 +40,7 @@ hobbies: [Open Source, Problem Solving, DevOps, Database Architecture]
 - 🔍 Database optimization and query performance tuning
 - 🤖 Curious about AI/ML integration in real-world applications
 - 💡 Creating intuitive and user-friendly digital experiences
+- 
 
 ---
 
