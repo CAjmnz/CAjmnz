@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,23,2,5,30&height=400&section=header&text=%20WELCOME%20LOST%20STAR&fontSize=83&animation=fadeIn&fontAlignY=38&desc=Constant update with life&descAlignY=51&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,23,2,5,30&height=400&section=header&text=%20WELCOME%20LOST%20STAR&fontSize=83&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=50"/>
  
 </div>
 
