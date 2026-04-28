@@ -77,6 +77,10 @@ hobbies: [Open Source, Problem Solving, DevOps, Database Architecture, 3d modeli
 ### ⚡ Frontend & UI
 <table>
   <tr>
+     <td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="Vue" width="50" height="50" />
+  <br><strong>Vue</strong>
+</td>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
       <br><strong>React</strong>
