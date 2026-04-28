@@ -171,6 +171,7 @@ hobbies: [Open Source, Problem Solving, DevOps, Database Architecture, 3d modeli
 ### 🎯 Currently Mastering
 <div align="center">
   <img src="https://img.shields.io/badge/⚛️_React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a1a" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue&logoColor=ffffff&labelColor=1a1a1a" alt="Vue" />
   <img src="https://img.shields.io/badge/🔥_Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=1a1a1a" alt="Laravel" />
   <img src="https://img.shields.io/badge/🏗️_System_Design-0078D7?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="System Design" />
   <img src="https://img.shields.io/badge/☁️_DevOps-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1a1a" alt="DevOps" />
