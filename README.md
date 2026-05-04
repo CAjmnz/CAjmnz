@@ -1,4 +1,3 @@
-<div align="center">
 
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,23,2,5,30&height=400&section=header&text=%20WELCOME%20LOST%20STAR&fontSize=83&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=50"/>
@@ -215,5 +214,5 @@ hobbies: [Open Source, Problem Solving, DevOps, Database Architecture, 3d modeli
 
 
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,25,2,5,30&height=200&section=footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&textBg=false&fontAlign=50&fontAlignY=54&animation=fadeIn&descAlign=6&section=footer&reversal=true)"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,25,2,5,30&textBg=false&fontAlign=50&fontAlignY=54&animation=fadeIn&descAlign=6&section=footer&reversal=true"/>
 </div>
