@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=IT%20BRR&fontSize=90&fontAlign=51&fontAlignY=37&animation=blink&section=footer"/>
+</div>
+
 # 💫 About Me:
 
 name: Engr Christian Augustus Jimenez<br>
@@ -5,8 +9,9 @@ role: System Programmer I<br>
 location: Totolan, Dauis, Bohol<br>
 status: Open for opportunities<br>
 focus: Full Stack Development & System Architecture<br>
-learning: [Laravel, React, AI/ML, System Design, DevOps]<br>
+learning: [Laravel, React,Vue, AI/ML, System Design, DevOps]<br>
 hobbies: [Open Source, Problem Solving, Database Systems, 3D Modeling]<br>
+
 
 # 🎯 Current Focus <br>
 💻 Building scalable full-stack applications (Laravel + React/Vue)<br>
@@ -39,5 +44,8 @@ hobbies: [Open Source, Problem Solving, Database Systems, 3D Modeling]<br>
 
 ---
 [![](https://komarev.com/ghpvc/?username=CAjmnz&icon=7&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&fontSize=90&fontAlign=51&fontAlignY=37&animation=blink&section=footer&descSize=-63&descAlign=0&descAlignY=2"/>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
