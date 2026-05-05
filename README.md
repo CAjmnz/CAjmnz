@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=IT%20BRR&fontSize=90&fontAlign=51&fontAlignY=37&animation=blink&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=IT%20BRRH&fontSize=90&fontAlign=51&fontAlignY=37&animation=blink&section=footer"/>
 </div>
 
 # 💫 About Me:
