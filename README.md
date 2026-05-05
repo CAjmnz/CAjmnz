@@ -1,5 +1,27 @@
 # 💫 About Me:
-name: Engr Christian Augustus Jimenez<br>role: System Programmer I<br>location: Totolan, Dauis, Bohol<br>status: Open for opportunities<br>focus: Full Stack Development & System Architecture<br>learning: [Laravel, React, AI/ML, System Design, DevOps]<br>hobbies: [Open Source, Problem Solving, Database Systems, 3D Modeling]<br>🎯 Current Focus<br>💻 Building scalable full-stack applications (Laravel + React/Vue)<br>🏗️ Designing system architectures for enterprise platforms<br>📊 Exploring AI/ML integration in real-world systems<br>☁️ Learning DevOps & cloud deployment pipelines<br>🗄️ Optimizing database performance & structure<br>🤝 Open-source collaboration & system design thinking<br>🚀 What Drives Me<br>🧠 System thinking over syntax memorization<br>⚙️ Automation, performance, and optimization<br>🔍 Database architecture & backend engineering<br>🤖 AI-assisted system development curiosity<br>💡 Clean, scalable, production-ready solutions<br>⚡ Tech Arsenal
+
+name: Engr Christian Augustus Jimenez<br>
+role: System Programmer I<br>
+location: Totolan, Dauis, Bohol<br>
+status: Open for opportunities<br>
+focus: Full Stack Development & System Architecture<br>
+learning: [Laravel, React, AI/ML, System Design, DevOps]<br>
+hobbies: [Open Source, Problem Solving, Database Systems, 3D Modeling]<br>
+
+# 🎯 Current Focus <br>
+💻 Building scalable full-stack applications (Laravel + React/Vue)<br>
+🏗️ Designing system architectures for enterprise platforms<br>
+📊 Exploring AI/ML integration in real-world systems<br>
+☁️ Learning DevOps & cloud deployment pipelines<br>
+🗄️ Optimizing database performance & structure<br>
+🤝 Open-source collaboration & system design thinking<br>
+# 🚀 What Drives Me <br>
+🧠 System thinking over syntax memorization<br>
+⚙️ Automation, performance, and optimization<br>
+🔍 Database architecture & backend engineering<br>
+🤖 AI-assisted system development curiosity<br>
+💡 Clean, scalable, production-ready solutions<br>
+⚡ Tech Arsenal
 
 
 ## 🌐 Socials:
