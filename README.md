@@ -10,6 +10,7 @@ location: Totolan, Dauis, Bohol<br>
 status: Open for opportunities<br>
 focus: Full Stack Development & System Architecture<br>
 learning: [Laravel, React,Vue, AI/ML, System Design, DevOps]<br>
+working with: [CI3, Bootstrap,JQuery, API, System Design, ]<br>
 hobbies: [Open Source, Problem Solving, Database Systems, 3D Modeling]<br>
 
 
