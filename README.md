@@ -14,7 +14,8 @@ hobbies: [Open Source, Problem Solving, Database Systems, 3D Modeling]<br>
 
 
 # 🎯 Current Focus <br>
-💻 Building scalable full-stack applications (Laravel + React/Vue)<br>
+💻 Building scalable full-stack applications (Laravel + React/Vue) (CI3 + boostrap )<br>
+💻 working on ARMS-BMS and ARMS (CI3 + boostrap )<br>
 🏗️ Designing system architectures for enterprise platforms<br>
 📊 Exploring AI/ML integration in real-world systems<br>
 ☁️ Learning DevOps & cloud deployment pipelines<br>
