@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-name: Engr Christian Augustus Jimenez<br>
+name: Engr Christian Augustus Jimenez CPE<br>
 role: System Programmer I<br>
 location: Totolan, Dauis, Bohol<br>
 status: Open for opportunities<br>
